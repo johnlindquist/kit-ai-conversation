@@ -1,3 +1,15 @@
+/*
+# TypeScript Quiz Information
+
+- Launches a difficult TypeScript quiz using OpenAI
+- The AI will ask 3 extremely challenging questions
+- Participants can choose from three answer options for each question
+- Users can input "start", "explain", or "skip" as commands
+- At the end of the quiz, the AI will score and assign a title
+
+> Note: This script makes use of OpenAI's GPT-4 and imports various utility packages to create the quiz.
+*/
+
 // Name: TypeScript Quiz
 // Description: TypeScript Quiz powered by OpenAI
 // Author: John Lindquist
